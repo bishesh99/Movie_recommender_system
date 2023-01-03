@@ -5,3 +5,4 @@
 # I've also used TMDB api to fetch movie posters with respect to movie id's of the dataset(scraping)
 # I've created a venv in python and also used stamlit to run the app on a localhost
 # Tools used: Python- Pandas,Numpy, Exporatory Data Analysis,Machine Learning library- Sklearn - count Veactorizer,cosine simialarity , NLP lib. - Nltk library - portstemmer.
+# used pickle library in order to dump and create pickle file (.pkl)
